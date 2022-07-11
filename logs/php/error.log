@@ -11,3 +11,50 @@ Stack trace:
 #2 /Users/joesph/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joesph/L...')
 #3 {main}
   thrown in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 21
+[08-Jul-2022 16:44:31 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 36
+[08-Jul-2022 16:44:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 56
+[08-Jul-2022 16:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attribute() in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php:2
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template.php(770): require_once()
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template.php(716): load_template('/Users/joesph/L...', true, Array)
+#2 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php(1): get_header()
+#4 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joesph/L...')
+#5 /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joesph/L...')
+#6 /Users/joesph/Local Sites/fictional-university/app/pub in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[08-Jul-2022 16:52:55 UTC] PHP Warning:  Use of undefined constant language_attribute - assumed 'language_attribute' (this will throw an Error in a future version of PHP) in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 2
+[08-Jul-2022 16:52:55 UTC] PHP Stack trace:
+[08-Jul-2022 16:52:55 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[08-Jul-2022 16:52:55 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[08-Jul-2022 16:52:55 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[08-Jul-2022 16:52:55 UTC] PHP   4. include() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[08-Jul-2022 16:52:55 UTC] PHP   5. get_header() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php:1
+[08-Jul-2022 16:52:55 UTC] PHP   6. locate_template() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/general-template.php:48
+[08-Jul-2022 16:52:55 UTC] PHP   7. load_template() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template.php:716
+[08-Jul-2022 16:52:55 UTC] PHP   8. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template.php:770
+[08-Jul-2022 17:20:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register_nav_menu(), 1 passed in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 14 and exactly 2 expected in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/nav-menu.php:136
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php(14): register_nav_menu('')
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(307): university_features('')
+#2 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php(576): do_action('after_setup_the...')
+#5 /Users/joesph/Local Sites/fictional-univers in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/nav-menu.php on line 136
+[08-Jul-2022 17:37:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 17
+[08-Jul-2022 17:37:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 17
+[08-Jul-2022 17:52:09 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/index.php on line 4
+[11-Jul-2022 14:35:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_catergory() in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php:7
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joesph/L...')
+#2 /Users/joesph/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joesph/L...')
+#3 {main}
+  thrown in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php on line 7
+[11-Jul-2022 14:36:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_catergory() in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php:7
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joesph/L...')
+#2 /Users/joesph/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joesph/L...')
+#3 {main}
+  thrown in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive.php on line 7
+[11-Jul-2022 14:48:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 120
