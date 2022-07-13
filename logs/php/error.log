@@ -70,3 +70,452 @@ Stack trace:
 [12-Jul-2022 18:48:21 UTC] PHP Parse error:  syntax error, unexpected ''public'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/mu-plugins/university-post-types.php on line 5
 [13-Jul-2022 13:55:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 69
 [13-Jul-2022 13:58:32 UTC] PHP Parse error:  syntax error, unexpected ''supports'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/mu-plugins/university-post-types.php on line 5
+[13-Jul-2022 15:04:28 UTC] PHP Parse error:  syntax error, unexpected '$homepageEvents' (T_VARIABLE) in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/front-page.php on line 20
+[13-Jul-2022 15:14:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 22
+[13-Jul-2022 15:14:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:46 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:46 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:46 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:46 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[13-Jul-2022 15:14:46 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[13-Jul-2022 15:14:46 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:91
+[13-Jul-2022 15:14:46 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:620
+[13-Jul-2022 15:14:46 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:46 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:46 UTC] PHP   9. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3269-3290}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:46 UTC] PHP  10. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3074-3130}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3272
+[13-Jul-2022 15:14:46 UTC] PHP  11. WP_Theme_JSON_Resolver::get_merged_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3076
+[13-Jul-2022 15:14:46 UTC] PHP  12. WP_Theme_JSON_Resolver::get_user_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:387
+[13-Jul-2022 15:14:46 UTC] PHP  13. WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:323
+[13-Jul-2022 15:14:46 UTC] PHP  14. wp_get_recent_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:285
+[13-Jul-2022 15:14:46 UTC] PHP  15. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:3939
+[13-Jul-2022 15:14:46 UTC] PHP  16. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:14:46 UTC] PHP  17. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:46 UTC] PHP  18. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:46 UTC] PHP  19. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:46 UTC] PHP  20. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:46 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:46 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:46 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:46 UTC] PHP   3. wp() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:16
+[13-Jul-2022 15:14:46 UTC] PHP   4. WP->main() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1330
+[13-Jul-2022 15:14:46 UTC] PHP   5. WP->query_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:775
+[13-Jul-2022 15:14:46 UTC] PHP   6. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:648
+[13-Jul-2022 15:14:46 UTC] PHP   7. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:46 UTC] PHP   8. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:46 UTC] PHP   9. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:46 UTC] PHP  10. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:46 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:46 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:46 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:46 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:14:46 UTC] PHP   4. include() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[13-Jul-2022 15:14:46 UTC] PHP   5. get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:21
+[13-Jul-2022 15:14:46 UTC] PHP   6. acf_maybe_get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:26
+[13-Jul-2022 15:14:46 UTC] PHP   7. acf_get_meta_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:153
+[13-Jul-2022 15:14:46 UTC] PHP   8. acf_get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-meta-functions.php:309
+[13-Jul-2022 15:14:46 UTC] PHP   9. acf_get_raw_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:36
+[13-Jul-2022 15:14:46 UTC] PHP  10. acf_get_field_post() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:85
+[13-Jul-2022 15:14:46 UTC] PHP  11. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:149
+[13-Jul-2022 15:14:46 UTC] PHP  12. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:14:46 UTC] PHP  13. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:46 UTC] PHP  14. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:46 UTC] PHP  15. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:46 UTC] PHP  16. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:46 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:46 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:46 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:46 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[13-Jul-2022 15:14:46 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[13-Jul-2022 15:14:46 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:91
+[13-Jul-2022 15:14:46 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:620
+[13-Jul-2022 15:14:46 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:46 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:46 UTC] PHP   9. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3269-3290}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:46 UTC] PHP  10. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3074-3130}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3272
+[13-Jul-2022 15:14:46 UTC] PHP  11. WP_Theme_JSON_Resolver::get_merged_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3076
+[13-Jul-2022 15:14:46 UTC] PHP  12. WP_Theme_JSON_Resolver::get_user_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:387
+[13-Jul-2022 15:14:46 UTC] PHP  13. WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:323
+[13-Jul-2022 15:14:46 UTC] PHP  14. wp_get_recent_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:285
+[13-Jul-2022 15:14:46 UTC] PHP  15. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:3939
+[13-Jul-2022 15:14:46 UTC] PHP  16. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:14:46 UTC] PHP  17. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:46 UTC] PHP  18. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:46 UTC] PHP  19. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:46 UTC] PHP  20. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:46 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:46 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:46 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:46 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:46 UTC] PHP   3. wp() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:16
+[13-Jul-2022 15:14:46 UTC] PHP   4. WP->main() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1330
+[13-Jul-2022 15:14:46 UTC] PHP   5. WP->query_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:775
+[13-Jul-2022 15:14:46 UTC] PHP   6. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:648
+[13-Jul-2022 15:14:46 UTC] PHP   7. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:46 UTC] PHP   8. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:46 UTC] PHP   9. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:46 UTC] PHP  10. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1421
+[13-Jul-2022 15:14:46 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:46 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:46 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:46 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:14:46 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[13-Jul-2022 15:14:46 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:46 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:46 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:46 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[13-Jul-2022 15:14:46 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1421
+[13-Jul-2022 15:14:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1424
+[13-Jul-2022 15:14:46 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:46 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:46 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:46 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:14:46 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[13-Jul-2022 15:14:46 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:46 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:46 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:46 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[13-Jul-2022 15:14:46 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1424
+[13-Jul-2022 15:14:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:52 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:52 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:52 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:52 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[13-Jul-2022 15:14:52 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[13-Jul-2022 15:14:52 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:91
+[13-Jul-2022 15:14:52 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:620
+[13-Jul-2022 15:14:52 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:52 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:52 UTC] PHP   9. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3269-3290}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:52 UTC] PHP  10. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3074-3130}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3272
+[13-Jul-2022 15:14:52 UTC] PHP  11. WP_Theme_JSON_Resolver::get_merged_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3076
+[13-Jul-2022 15:14:52 UTC] PHP  12. WP_Theme_JSON_Resolver::get_user_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:387
+[13-Jul-2022 15:14:52 UTC] PHP  13. WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:323
+[13-Jul-2022 15:14:52 UTC] PHP  14. wp_get_recent_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:285
+[13-Jul-2022 15:14:52 UTC] PHP  15. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:3939
+[13-Jul-2022 15:14:52 UTC] PHP  16. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:14:52 UTC] PHP  17. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:52 UTC] PHP  18. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:52 UTC] PHP  19. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:52 UTC] PHP  20. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:52 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:52 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:52 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:52 UTC] PHP   3. wp() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:16
+[13-Jul-2022 15:14:52 UTC] PHP   4. WP->main() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1330
+[13-Jul-2022 15:14:52 UTC] PHP   5. WP->query_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:775
+[13-Jul-2022 15:14:52 UTC] PHP   6. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:648
+[13-Jul-2022 15:14:52 UTC] PHP   7. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:52 UTC] PHP   8. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:52 UTC] PHP   9. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:52 UTC] PHP  10. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:52 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:52 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:52 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:52 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:14:52 UTC] PHP   4. include() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[13-Jul-2022 15:14:52 UTC] PHP   5. get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:21
+[13-Jul-2022 15:14:52 UTC] PHP   6. acf_maybe_get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:26
+[13-Jul-2022 15:14:52 UTC] PHP   7. acf_get_meta_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:153
+[13-Jul-2022 15:14:52 UTC] PHP   8. acf_get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-meta-functions.php:309
+[13-Jul-2022 15:14:52 UTC] PHP   9. acf_get_raw_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:36
+[13-Jul-2022 15:14:52 UTC] PHP  10. acf_get_field_post() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:85
+[13-Jul-2022 15:14:52 UTC] PHP  11. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:149
+[13-Jul-2022 15:14:52 UTC] PHP  12. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:14:52 UTC] PHP  13. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:52 UTC] PHP  14. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:52 UTC] PHP  15. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:52 UTC] PHP  16. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:52 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:52 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:52 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:52 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[13-Jul-2022 15:14:52 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[13-Jul-2022 15:14:52 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:91
+[13-Jul-2022 15:14:52 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:620
+[13-Jul-2022 15:14:52 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:52 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:52 UTC] PHP   9. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3269-3290}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:52 UTC] PHP  10. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3074-3130}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3272
+[13-Jul-2022 15:14:52 UTC] PHP  11. WP_Theme_JSON_Resolver::get_merged_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3076
+[13-Jul-2022 15:14:52 UTC] PHP  12. WP_Theme_JSON_Resolver::get_user_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:387
+[13-Jul-2022 15:14:52 UTC] PHP  13. WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:323
+[13-Jul-2022 15:14:52 UTC] PHP  14. wp_get_recent_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:285
+[13-Jul-2022 15:14:52 UTC] PHP  15. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:3939
+[13-Jul-2022 15:14:52 UTC] PHP  16. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:14:52 UTC] PHP  17. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:52 UTC] PHP  18. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:52 UTC] PHP  19. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:52 UTC] PHP  20. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:52 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:52 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:52 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:52 UTC] PHP   3. wp() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:16
+[13-Jul-2022 15:14:52 UTC] PHP   4. WP->main() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1330
+[13-Jul-2022 15:14:52 UTC] PHP   5. WP->query_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:775
+[13-Jul-2022 15:14:52 UTC] PHP   6. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:648
+[13-Jul-2022 15:14:52 UTC] PHP   7. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:52 UTC] PHP   8. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:52 UTC] PHP   9. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:52 UTC] PHP  10. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1421
+[13-Jul-2022 15:14:52 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:52 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:52 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:52 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:14:52 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[13-Jul-2022 15:14:52 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:52 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:52 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:52 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[13-Jul-2022 15:14:52 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1421
+[13-Jul-2022 15:14:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1424
+[13-Jul-2022 15:14:52 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:52 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:52 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:52 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:14:52 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[13-Jul-2022 15:14:52 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:52 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:52 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:52 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[13-Jul-2022 15:14:52 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1424
+[13-Jul-2022 15:14:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:54 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[13-Jul-2022 15:14:54 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[13-Jul-2022 15:14:54 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:91
+[13-Jul-2022 15:14:54 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:620
+[13-Jul-2022 15:14:54 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:54 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:54 UTC] PHP   9. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3269-3290}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:54 UTC] PHP  10. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3074-3130}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3272
+[13-Jul-2022 15:14:54 UTC] PHP  11. WP_Theme_JSON_Resolver::get_merged_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3076
+[13-Jul-2022 15:14:54 UTC] PHP  12. WP_Theme_JSON_Resolver::get_user_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:387
+[13-Jul-2022 15:14:54 UTC] PHP  13. WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:323
+[13-Jul-2022 15:14:54 UTC] PHP  14. wp_get_recent_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:285
+[13-Jul-2022 15:14:54 UTC] PHP  15. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:3939
+[13-Jul-2022 15:14:54 UTC] PHP  16. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:14:54 UTC] PHP  17. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:54 UTC] PHP  18. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:54 UTC] PHP  19. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:54 UTC] PHP  20. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:54 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:54 UTC] PHP   3. wp() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:16
+[13-Jul-2022 15:14:54 UTC] PHP   4. WP->main() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1330
+[13-Jul-2022 15:14:54 UTC] PHP   5. WP->query_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:775
+[13-Jul-2022 15:14:54 UTC] PHP   6. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:648
+[13-Jul-2022 15:14:54 UTC] PHP   7. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:54 UTC] PHP   8. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:54 UTC] PHP   9. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:54 UTC] PHP  10. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:54 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:14:54 UTC] PHP   4. include() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[13-Jul-2022 15:14:54 UTC] PHP   5. get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:21
+[13-Jul-2022 15:14:54 UTC] PHP   6. acf_maybe_get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:26
+[13-Jul-2022 15:14:54 UTC] PHP   7. acf_get_meta_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:153
+[13-Jul-2022 15:14:54 UTC] PHP   8. acf_get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-meta-functions.php:309
+[13-Jul-2022 15:14:54 UTC] PHP   9. acf_get_raw_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:36
+[13-Jul-2022 15:14:54 UTC] PHP  10. acf_get_field_post() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:85
+[13-Jul-2022 15:14:54 UTC] PHP  11. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:149
+[13-Jul-2022 15:14:54 UTC] PHP  12. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:14:54 UTC] PHP  13. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:54 UTC] PHP  14. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:54 UTC] PHP  15. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:54 UTC] PHP  16. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:54 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[13-Jul-2022 15:14:54 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[13-Jul-2022 15:14:54 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:91
+[13-Jul-2022 15:14:54 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:620
+[13-Jul-2022 15:14:54 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:54 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:54 UTC] PHP   9. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3269-3290}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:54 UTC] PHP  10. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3074-3130}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3272
+[13-Jul-2022 15:14:54 UTC] PHP  11. WP_Theme_JSON_Resolver::get_merged_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3076
+[13-Jul-2022 15:14:54 UTC] PHP  12. WP_Theme_JSON_Resolver::get_user_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:387
+[13-Jul-2022 15:14:54 UTC] PHP  13. WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:323
+[13-Jul-2022 15:14:54 UTC] PHP  14. wp_get_recent_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:285
+[13-Jul-2022 15:14:54 UTC] PHP  15. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:3939
+[13-Jul-2022 15:14:54 UTC] PHP  16. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:14:54 UTC] PHP  17. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:54 UTC] PHP  18. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:54 UTC] PHP  19. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:54 UTC] PHP  20. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:14:54 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:54 UTC] PHP   3. wp() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:16
+[13-Jul-2022 15:14:54 UTC] PHP   4. WP->main() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1330
+[13-Jul-2022 15:14:54 UTC] PHP   5. WP->query_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:775
+[13-Jul-2022 15:14:54 UTC] PHP   6. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:648
+[13-Jul-2022 15:14:54 UTC] PHP   7. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:14:54 UTC] PHP   8. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:14:54 UTC] PHP   9. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:14:54 UTC] PHP  10. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1421
+[13-Jul-2022 15:14:54 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:14:54 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[13-Jul-2022 15:14:54 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:54 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:54 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:54 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[13-Jul-2022 15:14:54 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1421
+[13-Jul-2022 15:14:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1424
+[13-Jul-2022 15:14:54 UTC] PHP Stack trace:
+[13-Jul-2022 15:14:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:14:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:14:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:14:54 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[13-Jul-2022 15:14:54 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:14:54 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:14:54 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:14:54 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[13-Jul-2022 15:14:54 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1424
+[13-Jul-2022 15:15:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:15:33 UTC] PHP Stack trace:
+[13-Jul-2022 15:15:33 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:15:33 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:15:33 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[13-Jul-2022 15:15:33 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[13-Jul-2022 15:15:33 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:91
+[13-Jul-2022 15:15:33 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:620
+[13-Jul-2022 15:15:33 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:15:33 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:15:33 UTC] PHP   9. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3269-3290}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:15:33 UTC] PHP  10. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3074-3130}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3272
+[13-Jul-2022 15:15:33 UTC] PHP  11. WP_Theme_JSON_Resolver::get_merged_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3076
+[13-Jul-2022 15:15:33 UTC] PHP  12. WP_Theme_JSON_Resolver::get_user_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:387
+[13-Jul-2022 15:15:33 UTC] PHP  13. WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:323
+[13-Jul-2022 15:15:33 UTC] PHP  14. wp_get_recent_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:285
+[13-Jul-2022 15:15:33 UTC] PHP  15. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:3939
+[13-Jul-2022 15:15:33 UTC] PHP  16. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:15:33 UTC] PHP  17. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:15:33 UTC] PHP  18. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:15:33 UTC] PHP  19. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:15:33 UTC] PHP  20. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:15:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:15:33 UTC] PHP Stack trace:
+[13-Jul-2022 15:15:33 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:15:33 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:15:33 UTC] PHP   3. wp() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:16
+[13-Jul-2022 15:15:33 UTC] PHP   4. WP->main() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1330
+[13-Jul-2022 15:15:33 UTC] PHP   5. WP->query_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:775
+[13-Jul-2022 15:15:33 UTC] PHP   6. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:648
+[13-Jul-2022 15:15:33 UTC] PHP   7. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:15:33 UTC] PHP   8. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:15:33 UTC] PHP   9. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:15:33 UTC] PHP  10. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:15:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:15:33 UTC] PHP Stack trace:
+[13-Jul-2022 15:15:33 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:15:33 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:15:33 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:15:33 UTC] PHP   4. include() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[13-Jul-2022 15:15:33 UTC] PHP   5. get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:21
+[13-Jul-2022 15:15:33 UTC] PHP   6. acf_maybe_get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:26
+[13-Jul-2022 15:15:33 UTC] PHP   7. acf_get_meta_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:153
+[13-Jul-2022 15:15:33 UTC] PHP   8. acf_get_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-meta-functions.php:309
+[13-Jul-2022 15:15:33 UTC] PHP   9. acf_get_raw_field() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:36
+[13-Jul-2022 15:15:33 UTC] PHP  10. acf_get_field_post() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:85
+[13-Jul-2022 15:15:33 UTC] PHP  11. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/acf-field-functions.php:149
+[13-Jul-2022 15:15:33 UTC] PHP  12. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:15:33 UTC] PHP  13. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:15:33 UTC] PHP  14. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:15:33 UTC] PHP  15. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:15:33 UTC] PHP  16. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:15:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:15:34 UTC] PHP Stack trace:
+[13-Jul-2022 15:15:34 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:15:34 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:15:34 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[13-Jul-2022 15:15:34 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[13-Jul-2022 15:15:34 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:91
+[13-Jul-2022 15:15:34 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:620
+[13-Jul-2022 15:15:34 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:15:34 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:15:34 UTC] PHP   9. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3269-3290}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:15:34 UTC] PHP  10. {closure:/Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3074-3130}() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3272
+[13-Jul-2022 15:15:34 UTC] PHP  11. WP_Theme_JSON_Resolver::get_merged_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/script-loader.php:3076
+[13-Jul-2022 15:15:34 UTC] PHP  12. WP_Theme_JSON_Resolver::get_user_data() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:387
+[13-Jul-2022 15:15:34 UTC] PHP  13. WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:323
+[13-Jul-2022 15:15:34 UTC] PHP  14. wp_get_recent_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-theme-json-resolver.php:285
+[13-Jul-2022 15:15:34 UTC] PHP  15. get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:3939
+[13-Jul-2022 15:15:34 UTC] PHP  16. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/post.php:2410
+[13-Jul-2022 15:15:34 UTC] PHP  17. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:15:34 UTC] PHP  18. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:15:34 UTC] PHP  19. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:15:34 UTC] PHP  20. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:15:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_adjust_queries' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[13-Jul-2022 15:15:34 UTC] PHP Stack trace:
+[13-Jul-2022 15:15:34 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:15:34 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:15:34 UTC] PHP   3. wp() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:16
+[13-Jul-2022 15:15:34 UTC] PHP   4. WP->main() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1330
+[13-Jul-2022 15:15:34 UTC] PHP   5. WP->query_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:775
+[13-Jul-2022 15:15:34 UTC] PHP   6. WP_Query->query() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp.php:648
+[13-Jul-2022 15:15:34 UTC] PHP   7. WP_Query->get_posts() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:3586
+[13-Jul-2022 15:15:34 UTC] PHP   8. do_action_ref_array() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1805
+[13-Jul-2022 15:15:34 UTC] PHP   9. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:524
+[13-Jul-2022 15:15:34 UTC] PHP  10. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:15:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1421
+[13-Jul-2022 15:15:34 UTC] PHP Stack trace:
+[13-Jul-2022 15:15:34 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:15:34 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:15:34 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:15:34 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[13-Jul-2022 15:15:34 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:15:34 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:15:34 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:15:34 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[13-Jul-2022 15:15:34 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1421
+[13-Jul-2022 15:15:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1424
+[13-Jul-2022 15:15:34 UTC] PHP Stack trace:
+[13-Jul-2022 15:15:34 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[13-Jul-2022 15:15:34 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[13-Jul-2022 15:15:34 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[13-Jul-2022 15:15:34 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[13-Jul-2022 15:15:34 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[13-Jul-2022 15:15:34 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[13-Jul-2022 15:15:34 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[13-Jul-2022 15:15:34 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[13-Jul-2022 15:15:34 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1424
+[13-Jul-2022 15:19:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Query::set(), 0 passed in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 22 and exactly 2 expected in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1773
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php(22): WP_Query->set()
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(307): university_adjust_queries(Object(WP_Query))
+#2 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php(524): WP_Hook->do_action(Array)
+#4 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php(1805): do_action_ref_array('pre_get_posts', Array)
+#5  in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php on line 1773
+[13-Jul-2022 15:19:46 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function WP_Query::set(), 1 passed in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 22 and exactly 2 expected in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php:1773
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php(22): WP_Query->set('meta_key')
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(307): university_adjust_queries(Object(WP_Query))
+#2 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#3 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php(524): WP_Hook->do_action(Array)
+#4 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php(1805): do_action_ref_array('pre_get_posts',  in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php on line 1773
