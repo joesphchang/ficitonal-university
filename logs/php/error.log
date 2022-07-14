@@ -519,3 +519,4 @@ Stack trace:
 #2 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
 #3 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php(524): WP_Hook->do_action(Array)
 #4 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php(1805): do_action_ref_array('pre_get_posts',  in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-query.php on line 1773
+[13-Jul-2022 15:45:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/header.php on line 19
