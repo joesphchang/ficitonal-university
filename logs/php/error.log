@@ -590,3 +590,776 @@ Stack trace:
 #3 /Users/joesph/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joesph/L...')
 #4 {main}
   thrown in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[19-Jul-2022 15:44:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function acf_update_setting(), 1 passed in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 87 and exactly 2 expected in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php:70
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php(87): acf_update_setting('AIzaSyCq2-9ORKI...')
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(307): my_acf_init(5)
+#2 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/ac in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php on line 70
+[19-Jul-2022 15:44:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function acf_update_setting(), 1 passed in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 87 and exactly 2 expected in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php:70
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php(87): acf_update_setting('AIzaSyCq2-9ORKI...')
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(307): my_acf_init(5)
+#2 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/ac in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php on line 70
+[19-Jul-2022 15:44:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function acf_update_setting(), 1 passed in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 87 and exactly 2 expected in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php:70
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php(87): acf_update_setting('AIzaSyCq2-9ORKI...')
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(307): my_acf_init(5)
+#2 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/ac in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php on line 70
+[19-Jul-2022 15:45:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function acf_update_setting(), 1 passed in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 87 and exactly 2 expected in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php:70
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php(87): acf_update_setting('AIzaSyCq2-9ORKI...')
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(307): my_acf_init(5)
+#2 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/ac in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php on line 70
+[19-Jul-2022 15:45:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function acf_update_setting(), 1 passed in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 87 and exactly 2 expected in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php:70
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php(87): acf_update_setting('AIzaSyCq2-9ORKI...')
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(307): my_acf_init(5)
+#2 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#4 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/ac in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php on line 70
+[19-Jul-2022 15:46:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:52 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:52 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:46:52 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:12
+[19-Jul-2022 15:46:52 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin.php:34
+[19-Jul-2022 15:46:52 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:52 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:52 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:52 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:52 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:52 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:52 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:52 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:52 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/includes/misc.php on line 1381
+[19-Jul-2022 15:46:52 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:52 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:46:52 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:12
+[19-Jul-2022 15:46:52 UTC] PHP   3. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin.php:175
+[19-Jul-2022 15:46:52 UTC] PHP   4. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:52 UTC] PHP   5. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:52 UTC] PHP   6. wp_admin_headers() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:52 UTC] PHP   7. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/includes/misc.php:1381
+[19-Jul-2022 15:46:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php on line 6878
+[19-Jul-2022 15:46:52 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:52 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:46:52 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:12
+[19-Jul-2022 15:46:52 UTC] PHP   3. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin.php:175
+[19-Jul-2022 15:46:52 UTC] PHP   4. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:52 UTC] PHP   5. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:52 UTC] PHP   6. send_frame_options_header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:305
+[19-Jul-2022 15:46:52 UTC] PHP   7. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:6878
+[19-Jul-2022 15:46:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-header.php on line 9
+[19-Jul-2022 15:46:53 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:53 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:46:53 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:187
+[19-Jul-2022 15:46:53 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/edit-form-blocks.php:307
+[19-Jul-2022 15:46:53 UTC] PHP   4. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-header.php:9
+[19-Jul-2022 15:46:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:53 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:53 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:53 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:53 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:53 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:53 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:53 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:53 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:53 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:53 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:53 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:53 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:53 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:53 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:53 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:53 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:53 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:53 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:53 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:53 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:53 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:53 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:53 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:53 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:53 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:53 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:53 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:53 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:53 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:53 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:53 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:53 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:53 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:53 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:53 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:53 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:53 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:53 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:53 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:53 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:53 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:53 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:53 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:53 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:53 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:53 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:53 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:53 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:53 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:53 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:53 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:53 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:53 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:53 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:53 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:53 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:53 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:53 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:53 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:53 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:53 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:53 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:53 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:53 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:53 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:53 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:53 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:54 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:54 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:54 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:54 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:54 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:54 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:54 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:54 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:54 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:54 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:54 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:54 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:54 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:54 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:54 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:54 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:54 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:54 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:54 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:54 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:54 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:54 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:54 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:54 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:54 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:54 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:54 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:54 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:54 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:54 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:54 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:54 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:54 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:54 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:54 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1421
+[19-Jul-2022 15:46:54 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[19-Jul-2022 15:46:54 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[19-Jul-2022 15:46:54 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:54 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[19-Jul-2022 15:46:54 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1421
+[19-Jul-2022 15:46:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1424
+[19-Jul-2022 15:46:54 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[19-Jul-2022 15:46:54 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[19-Jul-2022 15:46:54 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:54 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[19-Jul-2022 15:46:54 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1424
+[19-Jul-2022 15:46:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:54 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:54 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:54 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:54 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:54 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:54 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:54 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:54 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:54 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:54 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:54 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:54 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:58 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:58 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:46:58 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:58 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:12
+[19-Jul-2022 15:46:58 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php:0
+[19-Jul-2022 15:46:58 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin.php:34
+[19-Jul-2022 15:46:58 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php:22
+[19-Jul-2022 15:46:58 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:58 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:58 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:58 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:58 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:58 UTC] PHP   5. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:58 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP   6. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP   7. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:58 UTC] PHP   8. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:58 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:58 UTC] PHP   9. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:58 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP  10. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP  11. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/includes/misc.php on line 1381
+[19-Jul-2022 15:46:58 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:58 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:46:58 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:12
+[19-Jul-2022 15:46:58 UTC] PHP   3. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin.php:175
+[19-Jul-2022 15:46:58 UTC] PHP   4. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP   5. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP   6. wp_admin_headers() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:58 UTC] PHP   7. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/includes/misc.php:1381
+[19-Jul-2022 15:46:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php on line 6878
+[19-Jul-2022 15:46:58 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:58 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:46:58 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:12
+[19-Jul-2022 15:46:58 UTC] PHP   3. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin.php:175
+[19-Jul-2022 15:46:58 UTC] PHP   4. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP   5. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP   6. send_frame_options_header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:305
+[19-Jul-2022 15:46:58 UTC] PHP   7. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:6878
+[19-Jul-2022 15:46:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-header.php on line 9
+[19-Jul-2022 15:46:58 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:58 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:46:58 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:187
+[19-Jul-2022 15:46:58 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/edit-form-blocks.php:307
+[19-Jul-2022 15:46:58 UTC] PHP   4. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-header.php:9
+[19-Jul-2022 15:46:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:58 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:58 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:58 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:58 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:58 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:58 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:58 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:58 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:58 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:58 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:58 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:58 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:58 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:58 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:58 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:58 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:58 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:58 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:58 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:58 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:58 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:58 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:58 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:58 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:58 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:58 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:58 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:58 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:58 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:58 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:58 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:58 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:58 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:58 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:58 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:58 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:58 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:58 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:58 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:58 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:58 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:58 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:58 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:58 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:58 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:58 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:58 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:58 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:58 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:58 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:58 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:59 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:59 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:59 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:59 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:59 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:59 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:59 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:59 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:59 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:59 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:59 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:59 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:59 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:59 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:59 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:59 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:59 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:59 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:59 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:59 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:59 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:59 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:59 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:59 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:59 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:59 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:59 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:59 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:59 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:59 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:59 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:59 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:59 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:59 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:59 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:59 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:59 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:59 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:59 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:59 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:59 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:59 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:59 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:59 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:59 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:59 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:59 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:59 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:59 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:59 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:59 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:59 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:59 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:59 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:59 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:59 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:59 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:59 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:59 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:59 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1421
+[19-Jul-2022 15:46:59 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:59 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:59 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:59 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[19-Jul-2022 15:46:59 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[19-Jul-2022 15:46:59 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:59 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[19-Jul-2022 15:46:59 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1421
+[19-Jul-2022 15:46:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1424
+[19-Jul-2022 15:46:59 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:59 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:59 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:59 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[19-Jul-2022 15:46:59 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[19-Jul-2022 15:46:59 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:59 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[19-Jul-2022 15:46:59 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1424
+[19-Jul-2022 15:46:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'my_acf_init' not found or invalid function name in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php on line 307
+[19-Jul-2022 15:46:59 UTC] PHP Stack trace:
+[19-Jul-2022 15:46:59 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:46:59 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:46:59 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:46:59 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:46:59 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:46:59 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:46:59 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:46:59 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:46:59 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:46:59 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:46:59 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:12 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:12 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:12 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:12 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:12 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php:0
+[19-Jul-2022 15:47:12 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:47:12 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php:22
+[19-Jul-2022 15:47:12 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:12
+[19-Jul-2022 15:47:12 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:12 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin.php:34
+[19-Jul-2022 15:47:12 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:12 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:12 UTC] PHP   5. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:12 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:12 UTC] PHP   6. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:12 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:12 UTC] PHP   7. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:12 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:12 UTC] PHP   8. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:12 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:12 UTC] PHP   9. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:12 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:12 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:12 UTC] PHP  10. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:12 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:12 UTC] PHP  11. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:12 UTC] PHP  12. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:12 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:12 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:80) in /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/includes/misc.php on line 1381
+[19-Jul-2022 15:47:12 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:12 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:47:12 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:12
+[19-Jul-2022 15:47:12 UTC] PHP   3. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin.php:175
+[19-Jul-2022 15:47:12 UTC] PHP   4. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:12 UTC] PHP   6. wp_admin_headers() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:12 UTC] PHP   7. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/includes/misc.php:1381
+[19-Jul-2022 15:47:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:80) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php on line 6878
+[19-Jul-2022 15:47:12 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:12 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:47:12 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:12
+[19-Jul-2022 15:47:12 UTC] PHP   3. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin.php:175
+[19-Jul-2022 15:47:12 UTC] PHP   4. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:12 UTC] PHP   5. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:12 UTC] PHP   6. send_frame_options_header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:305
+[19-Jul-2022 15:47:12 UTC] PHP   7. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:6878
+[19-Jul-2022 15:47:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:80) in /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-header.php on line 9
+[19-Jul-2022 15:47:12 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:12 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:0
+[19-Jul-2022 15:47:12 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/post.php:187
+[19-Jul-2022 15:47:12 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/edit-form-blocks.php:307
+[19-Jul-2022 15:47:12 UTC] PHP   4. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-header.php:9
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:80) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1421
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[19-Jul-2022 15:47:13 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[19-Jul-2022 15:47:13 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[19-Jul-2022 15:47:13 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1421
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:80) in /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php on line 1424
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[19-Jul-2022 15:47:13 UTC] PHP   4. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:45
+[19-Jul-2022 15:47:13 UTC] PHP   5. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   6. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   7. do_favicon() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP   8. wp_redirect() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/functions.php:1733
+[19-Jul-2022 15:47:13 UTC] PHP   9. header() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/pluggable.php:1424
+[19-Jul-2022 15:47:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:47:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:47:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[19-Jul-2022 15:47:13 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[19-Jul-2022 15:47:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:13
+[19-Jul-2022 15:47:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:47:13 UTC] PHP   5. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:47:13 UTC] PHP   6. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:47:13 UTC] PHP   7. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP   8. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP   9. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:47:13 UTC] PHP  10. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:47:13 UTC] PHP  11. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:47:13 UTC] PHP  12. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:47:13 UTC] PHP  13. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:48:13 UTC] PHP Warning:  Cannot use a scalar value as an array in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 80
+[19-Jul-2022 15:48:13 UTC] PHP Stack trace:
+[19-Jul-2022 15:48:13 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php:0
+[19-Jul-2022 15:48:13 UTC] PHP   2. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-admin/admin-ajax.php:22
+[19-Jul-2022 15:48:13 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-load.php:50
+[19-Jul-2022 15:48:13 UTC] PHP   4. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-config.php:93
+[19-Jul-2022 15:48:13 UTC] PHP   5. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-settings.php:598
+[19-Jul-2022 15:48:13 UTC] PHP   6. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:48:13 UTC] PHP   7. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:48:13 UTC] PHP   8. ACF->init() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
+[19-Jul-2022 15:48:13 UTC] PHP   9. do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/plugins/advanced-custom-fields/acf.php:335
+[19-Jul-2022 15:48:13 UTC] PHP  10. WP_Hook->do_action() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/plugin.php:476
+[19-Jul-2022 15:48:13 UTC] PHP  11. WP_Hook->apply_filters() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:331
+[19-Jul-2022 15:48:13 UTC] PHP  12. universityMapKey() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/class-wp-hook.php:307
