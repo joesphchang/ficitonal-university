@@ -523,3 +523,70 @@ Stack trace:
 [14-Jul-2022 15:50:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 21
 [14-Jul-2022 15:53:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 22
 [14-Jul-2022 16:17:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 29
+[15-Jul-2022 17:47:40 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 9
+[15-Jul-2022 17:47:40 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 9
+[15-Jul-2022 17:47:44 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 9
+[15-Jul-2022 17:47:49 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 9
+[15-Jul-2022 17:47:49 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 9
+[15-Jul-2022 17:47:50 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 9
+[15-Jul-2022 17:47:50 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 9
+[15-Jul-2022 17:49:45 UTC] PHP Parse error:  syntax error, unexpected 'page_banner_background_image' (T_STRING), expecting ']' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 11
+[15-Jul-2022 17:51:53 UTC] PHP Parse error:  syntax error, unexpected '?>' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 20
+[15-Jul-2022 17:52:06 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 10
+[15-Jul-2022 17:52:06 UTC] PHP Stack trace:
+[15-Jul-2022 17:52:06 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[15-Jul-2022 17:52:06 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[15-Jul-2022 17:52:06 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[15-Jul-2022 17:52:06 UTC] PHP   4. include() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[15-Jul-2022 17:52:06 UTC] PHP   5. pageBanner() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[15-Jul-2022 17:52:06 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 10
+[15-Jul-2022 17:52:06 UTC] PHP Stack trace:
+[15-Jul-2022 17:52:06 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[15-Jul-2022 17:52:06 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[15-Jul-2022 17:52:06 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[15-Jul-2022 17:52:06 UTC] PHP   4. include() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[15-Jul-2022 17:52:06 UTC] PHP   5. pageBanner() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[15-Jul-2022 17:53:34 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 10
+[15-Jul-2022 17:53:34 UTC] PHP Stack trace:
+[15-Jul-2022 17:53:34 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[15-Jul-2022 17:53:34 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[15-Jul-2022 17:53:34 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[15-Jul-2022 17:53:34 UTC] PHP   4. include() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[15-Jul-2022 17:53:34 UTC] PHP   5. pageBanner() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[15-Jul-2022 17:53:34 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 10
+[15-Jul-2022 17:53:34 UTC] PHP Stack trace:
+[15-Jul-2022 17:53:34 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[15-Jul-2022 17:53:34 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[15-Jul-2022 17:53:34 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[15-Jul-2022 17:53:34 UTC] PHP   4. include() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[15-Jul-2022 17:53:34 UTC] PHP   5. pageBanner() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[15-Jul-2022 17:53:34 UTC] PHP Warning:  Use of undefined constant args - assumed 'args' (this will throw an Error in a future version of PHP) in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 10
+[15-Jul-2022 17:53:34 UTC] PHP Stack trace:
+[15-Jul-2022 17:53:34 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[15-Jul-2022 17:53:34 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[15-Jul-2022 17:53:34 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[15-Jul-2022 17:53:34 UTC] PHP   4. include() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[15-Jul-2022 17:53:34 UTC] PHP   5. pageBanner() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[15-Jul-2022 17:53:34 UTC] PHP Warning:  Illegal string offset 'subtitle' in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 10
+[15-Jul-2022 17:53:34 UTC] PHP Stack trace:
+[15-Jul-2022 17:53:34 UTC] PHP   1. {main}() /Users/joesph/Local Sites/fictional-university/app/public/index.php:0
+[15-Jul-2022 17:53:34 UTC] PHP   2. require() /Users/joesph/Local Sites/fictional-university/app/public/index.php:17
+[15-Jul-2022 17:53:34 UTC] PHP   3. require_once() /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[15-Jul-2022 17:53:34 UTC] PHP   4. include() /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[15-Jul-2022 17:53:34 UTC] PHP   5. pageBanner() /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php:8
+[15-Jul-2022 17:56:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 7 and exactly 1 expected in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:3
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php(7): pageBanner()
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joesph/L...')
+#2 /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joesph/L...')
+#3 /Users/joesph/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joesph/L...')
+#4 {main}
+  thrown in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
+[15-Jul-2022 17:56:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function pageBanner(), 0 passed in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php on line 7 and exactly 1 expected in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php:3
+Stack trace:
+#0 /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page.php(7): pageBanner()
+#1 /Users/joesph/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include('/Users/joesph/L...')
+#2 /Users/joesph/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/joesph/L...')
+#3 /Users/joesph/Local Sites/fictional-university/app/public/index.php(17): require('/Users/joesph/L...')
+#4 {main}
+  thrown in /Users/joesph/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 3
